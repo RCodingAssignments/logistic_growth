@@ -7,11 +7,10 @@ In a closed system, population growth, or logistic growth, comprises four stages
 Logistic growth can be modelled by the equation: dN/dt=Nr(1-(N/k)). Solving for N(t) produces the differential equation that defines
 N(t)nas a function of N0, r and, k. Therefore, this differential cannot be used to estimate our paramters of intersest, as such parameters are necessary terms in the equation. We must restrict the time over which we model N(t) to reduce the number of paramters necessary. 
 
- Estimating r and N0-
- The lag and log phases of logistic growth, when K<N0 and t is small, is the exponential phase of growth. When considering this inequality 
- and the fact that t is small, the N(t) equation is simplified to N(t)=N0e^rt. We can then apply a linear approximation to this equation, 
- to convert it into a more usable form. By taking the natural logarithm of both sides of the equation, ln(Nt)=ln(N0)+rtln(e). As ln(e)=1, 
- ln(Nt)=ln(N0)+rt. The equation of a linear line is y=mx+b therefore, our linear approximation defines m (the gradient) as r and, b (the y- 
- intercept) as ln(N0). In my analysis, applying a linear model to the equation 
+Estimating r and N0-
+The lag and log phases of logistic growth, when K<N0 and t is small, is the exponential phase of growth. When considering this inequality 
+and the fact that t is small, the N(t) equation is simplified to N(t)=N0e^rt. We can then apply a linear approximation to this equation, 
+to convert it into a more usable form. By taking the natural logarithm of both sides of the equation, ln(Nt)=ln(N0)+rtln(e). As ln(e)=1, 
+ln(Nt)=ln(N0)+rt. The equation of a linear line is y=mx+b therefore, our linear approximation defines m (the gradient) as r and, b (the y-  intercept) as ln(N0). In my analysis, I applied a linear model to the growth data, restricting the time to when N0<k (when t<541), and found an estimate of the y-intercept to be 8.186598 and the gradient, 0.025874. As b=ln(N0), N0=e^8.186598 and, as m=r, r=0.025874.
 
- Estimating k-
+Estimating k-
