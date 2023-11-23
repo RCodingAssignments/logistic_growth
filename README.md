@@ -28,6 +28,8 @@ Question 3-
 
 <img width="684" alt="Screenshot 2023-11-23 at 16 03 36" src="https://github.com/RCodingAssignments/logistic_growth/assets/151633221/df772903-0a66-4e05-b836-5e25d49628f9">
 
+This graph compares the logistic and exponential growth functions of the experiment 2 data, using my estimated parameters. Due to the nature of exponential growth, I had to limit the y axis otherwise the logistic function appeared as a straight line. As such, the exponential function is cut off. 
+
 
 
 
