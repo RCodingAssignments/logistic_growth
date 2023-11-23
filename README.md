@@ -26,6 +26,9 @@ N (t) = N0e^rt when the population is growing exponentially. Therefore, at t=498
 
 Question 3-
 
+<img width="684" alt="Screenshot 2023-11-23 at 16 03 36" src="https://github.com/RCodingAssignments/logistic_growth/assets/151633221/df772903-0a66-4e05-b836-5e25d49628f9">
+
+
 
 
 
