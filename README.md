@@ -2,7 +2,7 @@ I have used the experiment two data for this analysis.
 
 Question 1-
 
-In an open system, population growth, or logistic growth, comprises four stages, lag, log, stationary and decline. During lag phase, the organisms aclimatise to the environment and are preparing for growth, such as through protein synthesis. In contast, the log phase characterises eponential growth, where all, if any, limitng factors and density-independent. Alternatively, when the population reaches carrying capacity (stationary growth) density-depdendent limiting factors, such as nutrient depletion and a lack of space restict increased population growth. There are various parameters of interest one could measure regarding logsitic growth- in this analysis, I focus on N0, r and, k. N0 is the initial population size, r is the intrinsic growth rate and k is the carrying capacity. 
+In an closed system, population growth, or logistic growth, comprises four stages, lag, log, stationary and decline. During lag phase, the organisms aclimatise to the environment and are preparing for growth, such as through protein synthesis. In contast, the log phase characterises eponential growth, where all, if any, limitng factors and density-independent. Alternatively, when the population reaches carrying capacity (stationary growth) density-depdendent limiting factors, such as nutrient depletion and a lack of space restict increased population growth. Once death exceeds reproduction, the decline phase is initiated. There are various parameters of interest one could measure regarding logsitic growth- in this analysis, I focus on N0, r and, k. N0 is the initial population size, r is the intrinsic growth rate and k is the carrying capacity. 
 
 Logistic growth can be modelled by the equation: dN/dt=Nr(1-(N/k)). Solving for N(t) produces the differential equation that defines
 N(t) as a function of N0, r and, k. Therefore, this differential cannot be used to estimate our paramters of intersest, as such parameters are necessary terms in the equation. We must restrict the time over which we model N(t) to reduce the number of paramters necessary. 
@@ -22,6 +22,6 @@ Overall, linear approximations of the N(t) equation have enabled me to estimate 
 
 Question 2-
 
-N (t) = N0e^rt when the population is growing exponentially. Therefore, at t=4980 minutes, N0=e^8.186598 and, r=0.025874, the population size is 
+N (t) = N0e^rt when the population is growing exponentially. Therefore, at t=4980 minutes, N0=e^8.186598 and, r=0.025874, the population size is 3.28x10^59 (2dp). This is clearly exceeding the estimated carrying capacity of the population so, when we consider the population following logistic growth, the population size at t=4980 minutes is approximately the carrying capacity of the population which I estimated to be 999877492. These differences in estimated population sizes (under exponential or logistic growth) reflect the density-dependent limting factors that ensue in a closed system. Nutrient/space depletion, and waste accumulation are three common limiting factors that prevents additional exponential growth beyond a certain population size. These differening estimates further illustrate the reasons why modelling logistic growth is more appropraite when considering specific time boundaries, as the dynamics of growth (or decline) are temporally variant. 
 
 
