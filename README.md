@@ -7,7 +7,7 @@ In an closed system, population growth, or logistic growth, comprises four stage
 Logistic growth can be modelled by the equation: dN/dt=Nr(1-(N/k)). Solving for N(t) produces the differential equation that defines
 N(t) as a function of N0, r and, k. Therefore, this differential cannot be used to estimate our paramters of intersest, as such parameters are necessary terms in the equation. We must restrict the time over which we model N(t) to reduce the number of paramters necessary. 
 
-Estimating r and N0-
+Estimating r and N0- 
 
 The lag and log phases of logistic growth, when k>N0 and t is small, is the exponential phase of growth. When considering this inequality 
 and the fact that t is small, the N(t) equation is simplified to N(t)=N0e^rt **$'N(t)=\N0e^{rt}'$**. We can then apply a linear approximation to this equation, 
