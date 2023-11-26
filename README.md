@@ -16,9 +16,9 @@ ln(Nt)=ln(N0)+rt. The equation of a linear line is y=mx+c therefore, our linear 
 
 Estimating k-
 
-The stationary phase of logistic growth occurs as t tends towards infinity- the limit of N(t) as t tends towards infinity is N(t)=k. In this analysis, I applied another linear model to the growth data, restricting the time to when the stationary phase is so, t>541. As this is a horizontal line, the output of the model gave only one estimate, 999877492. This is technically the y-intercpet and as the line is representing the stationary phase, this value is equivalent to k. 
+The stationary phase of logistic growth occurs as t tends towards infinity- the limit of N(t) as t tends towards infinity is N(t)=k. In this analysis, I applied another linear model to the growth data, restricting the time to when the stationary phase is so, t>541. As this is a horizontal line, the output of the model gave only one estimate, 999877492. This is technically the y-intercept and as the line is representing the stationary phase, this value is equivalent to k. 
 
-Overall, linear approximations of the N(t) equation have enabled me to estimate N0=e^8.186598, r=0.025874 and, k=999877492 from the expeirment 2 data. 
+Overall, linear approximations of the N(t) equation have enabled me to estimate N0=e^8.186598, r=0.025874 and, k=999877492 from the experiment 2 data. 
 
 Question 2-
 
