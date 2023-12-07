@@ -2,10 +2,10 @@ I have used the experiment two data for this analysis.
 
 Question 1-
 
-In an closed system, population growth, or logistic growth, comprises three main stages, lag, log, and stationary. During lag phase, the organisms aclimatise to the environment and are preparing for growth, such as through protein synthesis. In contast, the log phase characterises eponential growth, where all, if any, limiting factors are density-independent. Alternatively, when the population reaches carrying capacity (stationary growth) density-depdendent limiting factors, such as nutrient depletion and a lack of space restrict increased population growth. There are various parameters of interest one could measure regarding logsitic growth- in this analysis, I focus on N0, r and, k. N0 is the initial population size, r is the intrinsic growth rate and k is the carrying capacity. 
+In an closed system, population growth, or logistic growth, comprises three main stages, lag, log, and stationary. During lag phase, the organisms aclimatise to the environment and are preparing for growth, such as through protein synthesis. In contast, the log phase characterises eponential growth, where all, if any, limiting factors are density-independent. Alternatively, when the population reaches carrying capacity (stationary growth) density-depdendent limiting factors, such as nutrient depletion and a lack of space restrict increased population growth. There are various parameters of interest one could measure regarding logsitic growth- in this analysis, I focus on N0, r and, k. N0 is the initial population size, r is the intrinsic growth rate, and k is the carrying capacity. 
 
-Logistic growth can be modelled by the equation: $dN/dt=Nr(1-(N/k))$. Solving for N(t) produces the differential equation that defines
-N(t) as a function of N0, r and, k. Therefore, this differential cannot be used to estimate our parameters of interest, as such parameters are necessary terms in the equation. We must restrict the time over which we model N(t) to reduce the number of parameters in the model. 
+Logistic growth can be modelled by the equation: $dN/dt=Nr(1-(N/k))$. Solving for N(t) produces an equation that defines
+N(t) as a function of N0, r and, k. Therefore, this equation cannot be used to estimate our parameters of interest, as such parameters are necessary terms in the equation. We must restrict the time over which we model N(t) to reduce the number of parameters in the model. 
 
 Estimating r and N0- 
 
